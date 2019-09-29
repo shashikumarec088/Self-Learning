@@ -1,0 +1,6 @@
+https://github.com/llSourcell/Programming_Interview_Study_Plan
+https://leetcode.com/
+https://interviewing.io/
+https://trello.com/en
+
+https://github.com/donnemartin/system-design-primer

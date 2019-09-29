@@ -1,0 +1,60 @@
+1. Visualization of Features of a Neural Network
+Visualization & Understanding Convolution Networks
+Recommending Music of Spotify with Deep Learning
+
+Distill.pub post on Feature Visualisation: https://distill.pub/2017/feature-visu...
+Sander Dieleman post on music recommendation: http://benanne.github.io/2014/08/05/s...
+Blogpost on Deep Feature visualisation: http://yosinski.com/deepvis
+Github link to DeepVis Toolbox: https://github.com/yosinski/deep-visu...
+Paper by Zeiler & Fergus: https://arxiv.org/abs/1311.2901
+
+2 .Adversarial Machine Learning
+Fast Gradient Sign Method
+CPPM for Adversarial Training
+
+Reactive Strategy: Detect Adversarial Examples
+Proactive Strategy: Include Adversarial Examples in Training
+
+3. Overfitting & Generalization
+Understanding Deep Learning Requires Rethinking Generalization
+A Closer Look at Memorization in Neural Networks
+Opening the Black Box of Deep Neural Networks via Information
+
+Towards Understanding generalization of Deep Learning : Perspective of Loss Landscape
+A Generalization Theory of Gradient Descent For Learning over-paramterized deep ReLU Networks
+A Bayesian perspective of generalization and SGD
+
+
+
+4. Learn how to morph faces with a Generative Adversarial Network!
+Progressive Growing of GANs for Improved Quality Stability and Variation
+A Style-Based Generator Architecture for Generative Adversarial Networks
+ResNet encoder for getting latent vector makes training much faster
+
+A Neural Algorithm of Artistic Style
+Intriguing properties of neural networks
+
+
+5. Variational Autoencoders
+
+Image Segmentation, Image Denoising(force encoder to get rid of noise), Image Inpainting
+VAE has input mapped to a distribution, MEAN & STD of distribution.
+We have re-parametrization trick, where we pick z = mu + sigma.eps, where eps is sampled
+Dis-entangled autoencoders, different neuron in distribution be uncorrelated. 
+
+- Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
+- Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
+- Original VAE paper (2013): https://arxiv.org/abs/1312.6114
+
+
+Art generation using Deep Learning
+
+Architectures : GAN or VAE
+Domains
+1. Artistic Style
+2. Realistic Style
+
+Realistic (only on pictures)
+1. Interior Design
+2. Automobile Design
+3. Apparrels Design
