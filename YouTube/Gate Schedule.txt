@@ -1,0 +1,29 @@
+>>> 
+2 Digital Logic Design
+
+>>> 
+3 Discrete Mathematics
+
+>>> 
+4 Data Structures
+3 Design and Analysis Algorithms
+
+>>> 
+3 Theory of Computation
+3 Compiler Design
+
+>>> 
+5 Computer Organisation
+4 Operating Systems
+5 Database Management Systems
+
+>>> 
+7 Computer Networks
+
+>>> 
+2 Aptitude
+2 Probability
+1 Linear Algebra
+1 Calculus
+
+*Note:* Friday Revision
