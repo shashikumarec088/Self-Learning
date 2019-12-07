@@ -45,3 +45,9 @@
 - [ ]
 
 
+conda install numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow
+conda update -n VENV_NAME numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow
+pip install --upgrade opencv-python
+
+conda install tensorflow==1.14
+pip install keras==2.2.5
