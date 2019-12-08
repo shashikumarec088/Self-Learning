@@ -54,4 +54,9 @@ conda install tensorflow==1.14
 pip install keras==2.2.5
 
 conda install -c anaconda-nb-extensions nb_conda
+
+
+# Teamviewer Not Launching in Ubuntu18.04
+
+systemctl restart teamviewerd
 </pre>
