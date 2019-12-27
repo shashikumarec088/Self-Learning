@@ -60,3 +60,31 @@ conda install -c anaconda-nb-extensions nb_conda
 
 systemctl restart teamviewerd
 </pre>
+
+
+## Windows/Linux Utility Software
+- [ ] 7-zip
+- [ ] Adobe Reader DC
+- [ ] Anaconda3
+- [ ] AnyDesk
+- [ ] AOMEI Partition Wizard
+- [ ] CISCO AnyConnect
+- [ ] Dev-C++
+- [ ] Free Download Manager
+- [ ] Git
+- [ ] Google Chrome
+- [ ] Java SDK
+- [ ] MS Office/One-Drive
+- [ ] VS Code
+- [ ] Mozilla Firefox
+- [ ] PostgreSQL
+- [ ] PowerISO
+- [ ] Putty
+- [ ] Samsung Magician
+- [ ] Spotify
+- [ ] Sublime Text 3
+- [ ] TeamViewer
+- [ ] Universal ADB driver for Vysor
+- [ ] VLC Media Player
+- [ ] WinRAR
+- [ ] WinSCP
