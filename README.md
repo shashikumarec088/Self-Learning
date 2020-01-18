@@ -9,10 +9,6 @@
 - [ ] Hands On Machine learning Book
 - [ ] Piyush Rai Slides, IIT-K
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
 ### Advanced
@@ -22,7 +18,35 @@
 - [ ] Reinforcement Learning
 - [ ] Time Series
 - [ ] 
-- [ ] 
+
+
+### DeepLearning.Ai
+- [ ] Deep Learning Specialization
+- [ ] Tensorflow in Practice
+- [ ] Tensorflow: Data & Deployment
+- [ ] AI for Everyone
+
+### YouTube Courses
+- [ ] 3Blue1Brown (LA, Calculus, DiffEq, Neural Networks)
+- [ ] Advanced Deep & Reinforcement Learning
+- [ ] Reinforcement Learning - David Silver
+
+#### MIT-OCW
+- [ ] Linear Algebra
+- [ ] Introduction to Probability
+- [ ] Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
+- [ ] Introduction to Algorithms
+- [ ] Design and Analysis of Algorithms
+
+#### NPTEL
+- [ ] Numerical Optimization
+- [ ] Pattern Recognition and Neural Networks
+
+#### Stanford
+- [ ] Natural Language Understanding
+- [ ] NLP with Deep Learning
+- [ ] Deep Learning
+- [ ] Reinforcement Learning
 
 
 
@@ -39,8 +63,6 @@
 - [ ] Speech Synthesis
 - [ ] Text to SQL
 - [ ] Audio Source Separation
-- [ ]
-- [ ]
 - [ ]
 - [ ]
 
