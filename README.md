@@ -72,9 +72,7 @@ This repository is intended to be used for personal use, all rights reserved to 
 conda install numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow ipython jupyter numba
 conda update -n VENV_NAME numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow
 
-pip install --upgrade opencv-python
-pip install streamlit
-
+pip install --upgrade opencv-python streamlit
 
 conda install tensorflow==1.14
 pip install keras==2.2.5
