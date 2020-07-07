@@ -69,7 +69,7 @@ This repository is intended to be used for personal use, all rights reserved to 
 
 
 <pre>
-conda install numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow ipython jupyter numba
+conda install numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow ipython jupyter numba joblib xgboost dask h2o django flask
 conda update -n VENV_NAME numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow
 
 pip install --upgrade opencv-python streamlit
