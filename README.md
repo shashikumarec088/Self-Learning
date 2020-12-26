@@ -88,6 +88,50 @@ python
 </pre>
 
 
+## SciPy Stack (Numpy, Matplotlib, Pandas, SymPy & Scipy Included)
+https://scipy.org
+## SEABORN (Powerful pretty plotting library)
+https://seaborn.pydata.org
+## Scikit-Learn (Standard ML and many algorithms implemented)
+https://scikit-learn.org/stable/
+## High-level Neural Network API (Yet customizable)
+https://keras.io
+## Visualising Neural Network Training, Computation graph and a lot
+https://www.tensorflow.org/tensorboard
+## Backend for Keras, Powerful tool for ML/DL & Simulation research
+https://www.tensorflow.org
+## Distributed load balanced data handling (over-system & clusters)
+https://dask.org
+## ML implementation of Most Scikit-learn Algorithms, highly scalable
+https://ml.dask.org
+## Great examples on how to use DASK
+https://examples.dask.org
+## Machine learning, Data processing & more on Nvidia GPU
+https://rapids.ai
+## Building High level data apps with Ease
+https://www.streamlit.io
+## TF projector for visualization with Dimensionality reduction
+https://projector.tensorflow.org
+## Creating VMs (Infra+Platform) over GCP
+https://console.cloud.google.com/getting-started
+## Codelabs provide a Step-wise, learning tutorials, hands-on coding experience. To build a small application OR adding features into existing application
+https://codelabs.developers.google.com
+## Connecting Google colab notebooks to local runtime
+https://research.google.com/colaboratory/local-runtimes.html
+
+
+# Connecting Google Colab to Local Runtime
+pip install jupyter_http_over_ws
+
+jupyter serverextension enable --py jupyter_http_over_ws
+
+jupyter notebook \
+  --NotebookApp.allow_origin='https://colab.research.google.com' \
+  --port=6006 \
+  --NotebookApp.port_retries=0
+
+
+
 ## Windows/Linux Utility Software
 - [ ] 7-zip
 - [ ] Adobe Reader DC
