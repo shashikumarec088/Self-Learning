@@ -132,6 +132,11 @@ jupyter notebook \
 
 
 
+https://github.com/quantopian/zipline
+https://github.com/EliteQuant/EliteQuant
+https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+
+
 ## Windows/Linux Utility Software
 - [ ] 7-zip
 - [ ] Adobe Reader DC
