@@ -1,3 +1,22 @@
+# Courses Up Next (Target 2021-22)
+
+## MIT MicroMasters
+- [ ] Probability - The Science of Uncertainty and Data
+- [ ] Machine Learning with Python: from Linear Models to Deep Learning
+- [ ] Data Analysis: Statistical Modeling and Computation in Applications
+- [ ] Fundamentals of Statistics
+- [ ] Capstone Exam in Statistics and Data Science
+
+## Coursera Specializations
+- [ ] Deep Learning
+- [ ] Generative Adversarial Networks
+- [ ] Tensorflow : Data and Deployment
+- [ ] Machine Learning for Trading
+- [ ] Natural Language Processing 
+- [ ] Tensorflow: Advanced Techniques
+- [ ] AI for Medicine
+
+
 # Books Up Next (Target 2021)
 
 ## Financial education & Self-improvement
