@@ -30,9 +30,9 @@
 ## Mathematical Foundations
 - [ ] Linear Algebra and Its Applications - Gilbert Strang
 - [ ] A First Course in Probability - Sheldon Ross
+- [ ] Linear-And-Nonlinear-Programming
 - [ ] Introduction to probability models
 - [ ] Stochastic-Processes-And-Calculus
-- [ ] Linear-And-Nonlinear-Programming
 - [ ] Optimization for Machine Learning
 - [ ] Information theory, inference and learning algorithms
 
