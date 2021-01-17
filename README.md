@@ -69,17 +69,25 @@ This repository is intended to be used for personal use, all rights reserved to 
 
 
 <pre>
-conda install numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow ipython jupyter numba joblib xgboost dask h2o django flask
-conda update -n VENV_NAME numpy scipy matplotlib seaborn pandas scikit-learn scikit-image pillow
+conda update conda
+conda create -n py38 python=3.8
+conda activate py38
+conda install numpy scipy sympy matplotlib seaborn holoviews panel bokeh pandas scikit-learn scikit-image pillow ipython jupyter numba joblib dask dask-ml h2o django flask gevent requests lightgbm catboost nltk imbalanced-learn
+pip install --upgrade opencv-python streamlit jupyter_http_over_ws xgboost
+pip install --upgrade tensorflow keras-tuner
+conda update --all
 
-pip install --upgrade opencv-python streamlit
+import tensorflow as tf
+tf.config.list_physical_devices('GPU')
 
-conda install tensorflow==1.14
-pip install keras==2.2.5
+jupyter serverextension enable --py jupyter_http_over_ws
+jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=6006 --NotebookApp.port_retries=0
+
+conda create -n py38 python=3.8 --no-default-packages
+conda remove -n py38 --all
 
 conda install -c anaconda-nb-extensions nb_conda
 conda install -c anaconda psycopg2
-
 
 # Teamviewer Not Launching in Ubuntu18.04
 systemctl restart teamviewerd
